@@ -4,7 +4,17 @@
 ul {
 	list-style:none
 }
-ul li {
+.panal_icon ul li {
 	float:left;
 	margin:5px;
+}
+.panal_body{
+	background-color:#00b1e263
+}
+.panal_icon{
+	background-color:#00b1e263
+}
+img {
+	margin:0;
+	padding:0;
 }
