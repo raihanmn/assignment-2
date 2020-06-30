@@ -14,7 +14,14 @@ ul {
 .panal_icon{
 	background-color:#00b1e263
 }
-img {
-	margin:0;
-	padding:0;
+.panal_body2 img {
+	padding:10px;
+}
+.fb_logo {
+	padding-top:10px;
+	padding-left:0px; 
+	padding-right:0px
+}
+.news li{
+	padding:5px;
 }
